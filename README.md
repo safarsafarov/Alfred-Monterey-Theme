@@ -1,3 +1,3 @@
 # Alfred Monterey Theme
 
-<img src="screenshot.png" width="777">
+<img src="screenshot.png" width="666">
